@@ -1,0 +1,56 @@
+a,
+h1 span,
+.btn.btn-default,
+.navbar > .container .navbar-brand, 
+.navbar > .container-fluid .navbar-brand,
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:focus, 
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default.top-nav-collapse .navbar-nav > .active > a, 
+.navbar-default.top-nav-collapse .navbar-nav > .active > a:focus, 
+.navbar-default.top-nav-collapse .navbar-nav > .active > a:hover,
+.navbar-default.top-nav-collapse .navbar-nav > li > a:hover,
+.banner-content .btn.btn-default:hover,
+.fun-facts-info:hover .fa,
+[data-carousel-3d] [data-prev-button]::before,
+[data-carousel-3d] [data-next-button]::before,
+.video-info a{
+	color:#ff3366;
+}
+.btn.btn-primary,
+.btn.btn-default:hover,
+.features-list:hover .icon .fa,
+[data-carousel-3d] [data-next-button]:hover::before,
+[data-carousel-3d] [data-prev-button]:hover::before,
+.pricing-table:hover .pricing-body .price span,
+#subscribe .btn.btn-default:hover,
+.back-top i,
+.social-media > li .fa:hover,
+.navbar-default .navbar-toggle .icon-bar,
+.navbar-default .navbar-toggle:focus, 
+.navbar-default .navbar-toggle:hover,
+#color-switcher h2 a,
+.carousel-indicators .active,
+#subscribe .btn.btn-default{
+	background:#ff3366;
+}
+.btn.btn-default,
+.btn.btn-default:hover,
+.section-title h1::before,
+[data-carousel-3d] [data-prev-button]::before,
+[data-carousel-3d] [data-next-button]::before,
+.pricing-table:hover .pricing-header,
+.pricing-table:hover .pricing-body .price span,
+.social-media > li .fa:hover,
+.navbar-default .navbar-toggle,
+.form-control:focus,
+.carousel-indicators li{
+	border-color:#ff3366;
+}
+.pricing-table:hover .pricing-header::before{
+	border-top-color:#ff3366;
+}
+#subscribe .btn.btn-default{
+	border-left:1px solid #ff3366;
+}
